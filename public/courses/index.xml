@@ -12,5 +12,21 @@
       <link>/courses/</link>
     </image>
     
+    <item>
+      <title>Graph Mining for Data Analytics</title>
+      <link>/courses/gm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/gm/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;github-documents&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GitHub Documents&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

@@ -213,7 +213,15 @@
   </url>
   
   <url>
+    <loc>/courses/example/gm2/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/example/gm/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/gm/</loc>
   </url>
   
 </urlset>

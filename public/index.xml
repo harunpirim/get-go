@@ -102,7 +102,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-518462973&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-683275491&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -112,7 +112,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-518462973&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-683275491&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -751,10 +751,55 @@ Figure 1: A fancy pie chart.
     </item>
     
     <item>
+      <title></title>
+      <link>/courses/example/gm2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/example/gm2/</guid>
+      <description>&lt;h2 id=&#34;github-documents&#34;&gt;GitHub Documents&lt;/h2&gt;
+&lt;p&gt;This is an R Markdown format used for publishing markdown documents to
+GitHub. When you click the &lt;strong&gt;Knit&lt;/strong&gt; button all R code chunks are run and
+a markdown file (.md) suitable for publishing to GitHub is generated.&lt;/p&gt;
+&lt;h2 id=&#34;including-code&#34;&gt;Including Code&lt;/h2&gt;
+&lt;p&gt;You can include R code in the document as follows:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;summary(cars)
+
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;including-plots&#34;&gt;Including Plots&lt;/h2&gt;
+&lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;GM2_files/figure-markdown_strict/pressure-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to
+prevent printing of the R code that generated the plot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Graph Mining for Data Analytics</title>
       <link>/courses/example/gm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/courses/example/gm/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;github-documents&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;GitHub Documents&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Graph Mining for Data Analytics</title>
+      <link>/courses/gm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/courses/gm/</guid>
       <description>
 &lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
 &lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
