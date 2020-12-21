@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic | Harun Pirim&#39;s page</title>
-    <link>https://harunpirim.netlify.app/tag/academic/</link>
-      <atom:link href="https://harunpirim.netlify.app/tag/academic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Optimization | Harun Pirim&#39;s page</title>
+    <link>https://harunpirim.netlify.app/category/optimization/</link>
+      <atom:link href="https://harunpirim.netlify.app/category/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://harunpirim.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>https://harunpirim.netlify.app/tag/academic/</link>
+      <title>Optimization</title>
+      <link>https://harunpirim.netlify.app/category/optimization/</link>
     </image>
     
     <item>
