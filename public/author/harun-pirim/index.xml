@@ -31,12 +31,7 @@
       <link>https://harunpirim.netlify.app/post/gm/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://harunpirim.netlify.app/post/gm/</guid>
-      <description>&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/MOO6k3RaiwE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
-focal_point: &amp;quot;&amp;quot;
-placement: 2
-preview_only: false&lt;/p&gt;
-&lt;!-- ![png](./index_1_0.png) --&gt;
+      <description>&lt;!-- ![png](./index_1_0.png) --&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
