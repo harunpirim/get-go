@@ -40,7 +40,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-967825314&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-853721649&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -50,7 +50,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-967825314&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-853721649&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -286,13 +286,15 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://harunpirim.netlify.app/post/jupyter/</link>
+      <link>https://harunpirim.netlify.app/post/gm/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://harunpirim.netlify.app/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+      <guid>https://harunpirim.netlify.app/post/gm/</guid>
+      <description>&lt;p&gt;image:
+caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/MOO6k3RaiwE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;
+focal_point: &amp;quot;&amp;quot;
+placement: 2
+preview_only: false&lt;/p&gt;
+&lt;p&gt;&amp;lt;&amp;ndash; &lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt; &amp;ndash;&amp;gt;&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
