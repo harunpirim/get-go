@@ -27,7 +27,7 @@
     </item>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
+      <title>Graph Mining for Data Analytics</title>
       <link>https://harunpirim.netlify.app/post/gm/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://harunpirim.netlify.app/post/gm/</guid>
@@ -36,7 +36,7 @@ caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com/photos/MO
 focal_point: &amp;quot;&amp;quot;
 placement: 2
 preview_only: false&lt;/p&gt;
-&lt;p&gt;&amp;lt;&amp;ndash; &lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt; &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!-- ![png](./index_1_0.png) --&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;Welcome to Academic!
