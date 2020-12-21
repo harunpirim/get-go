@@ -33,18 +33,13 @@
   </url>
   
   <url>
-    <loc>https://harunpirim.netlify.app/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://harunpirim.netlify.app/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://harunpirim.netlify.app/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,13 +53,8 @@
   </url>
   
   <url>
-    <loc>https://harunpirim.netlify.app/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://harunpirim.netlify.app/author/harun-pirim/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,12 +74,22 @@
   
   <url>
     <loc>https://harunpirim.netlify.app/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://harunpirim.netlify.app/post/gm/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/tag/network-clustering/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -113,6 +113,11 @@
   </url>
   
   <url>
+    <loc>https://harunpirim.netlify.app/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://harunpirim.netlify.app/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -129,12 +134,17 @@
   
   <url>
     <loc>https://harunpirim.netlify.app/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://harunpirim.netlify.app/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -148,6 +158,26 @@
   </url>
   
   <url>
+    <loc>https://harunpirim.netlify.app/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc></loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://harunpirim.netlify.app/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -158,7 +188,7 @@
   </url>
   
   <url>
-    <loc>https://harunpirim.netlify.app/author/robert-ford/</loc>
+    <loc></loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,6 +228,11 @@
   </url>
   
   <url>
+    <loc>https://harunpirim.netlify.app/publication/example/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://harunpirim.netlify.app/courses/example/gm2/</loc>
   </url>
   
@@ -207,10 +242,6 @@
   
   <url>
     <loc>https://harunpirim.netlify.app/courses/gm/</loc>
-  </url>
-  
-  <url>
-    <loc>https://harunpirim.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
   
 </urlset>

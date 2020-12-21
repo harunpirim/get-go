@@ -1,5 +1,6 @@
 (() => {
   // ns-hugo:/Users/harunpirim/Documents/get-go/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-theming.js
+  var body = document.body;
   function getThemeMode() {
     return parseInt(localStorage.getItem("wcTheme") || 2);
   }
@@ -29,11 +30,17 @@
         }
         break;
     }
-    if (isDarkTheme) {
+    if (isDarkTheme && !body.classList.contains("dark")) {
+      console.debug("Applying Wowchemy dark theme");
       document.body.classList.add("dark");
-    } else {
+    } else if (body.classList.contains("dark")) {
+      console.debug("Applying Wowchemy light theme");
       document.body.classList.remove("dark");
     }
+    return {
+      isDarkTheme,
+      themeMode: currentThemeMode
+    };
   }
 
   // ns-params:@params
