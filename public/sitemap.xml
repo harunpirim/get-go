@@ -33,6 +33,26 @@
   </url>
   
   <url>
+    <loc>https://harunpirim.netlify.app/project/internal-project/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/tag/network-analysis/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/project/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://harunpirim.netlify.app/tags/</loc>
+    <lastmod>2020-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://harunpirim.netlify.app/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -70,11 +90,6 @@
   <url>
     <loc>https://harunpirim.netlify.app/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://harunpirim.netlify.app/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -119,16 +134,6 @@
   
   <url>
     <loc>https://harunpirim.netlify.app/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://harunpirim.netlify.app/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://harunpirim.netlify.app/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
