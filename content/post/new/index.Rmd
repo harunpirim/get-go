@@ -2,6 +2,8 @@
 title: "R stuff"
 author: "HP"
 date: "12/27/2020"
+resource_files: 
+-include
 output: html_document
 share: false
 ---
