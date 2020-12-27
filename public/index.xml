@@ -101,28 +101,18 @@
       <link>https://harunpirim.netlify.app/post/gm/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://harunpirim.netlify.app/post/gm/</guid>
-      <description>&lt;p&gt;Here, I will be providing links to resources related to graph mining&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Here, I will be providing links to resources related to graph mining&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;http://rocketdatascience.org/?p=1253&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glossaries of Data Science Terminology by Kirk Borne&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Network science book by Albert L. Barabasi:
-&lt;a href=&#34;http://networksciencebook.com&#34;&gt;http://networksciencebook.com&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Tidy network analysis and visualization by Massimo Franceshet:
-&lt;a href=&#34;http://users.dimi.uniud.it/~massimo.franceschet/ns/plugandplay/ggraph/ggraph.html#1&#34;&gt;http://users.dimi.uniud.it/~massimo.franceschet/ns/plugandplay/ggraph/ggraph.html#1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Data Scientists, The 5 Graph Algorithms that you should know by Rahul Agarwal(with networkx python code):
-&lt;a href=&#34;https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513&#34;&gt;https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Everything you need to know about Graph Theory for Deep Learning by Flawnson Tong:
-&lt;a href=&#34;https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b&#34;&gt;https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;How to get started with machine learning on graphs by David Mack:
-&lt;a href=&#34;https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763&#34;&gt;https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Machine learning on Graphs course: Pre-requisites by David Mack:
-&lt;a href=&#34;https://medium.com/octavian-ai/machine-learning-on-graphs-course-pre-requisites-446d2ff3878b&#34;&gt;https://medium.com/octavian-ai/machine-learning-on-graphs-course-pre-requisites-446d2ff3878b&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Graph Embedding for Deep Learning by Flawnson Tong:
-&lt;a href=&#34;https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4&#34;&gt;https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Graph Convolutional Networks for Geometric Deep Learning by Flawnson Tong:
-&lt;a href=&#34;https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008&#34;&gt;https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;What is Geometric Deep Learning? by Flawnson Tong:
-&lt;a href=&#34;https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d&#34;&gt;https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Papers with codes website:
-&lt;a href=&#34;https://paperswithcode.com/methods/area/graphs&#34;&gt;https://paperswithcode.com/methods/area/graphs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://networksciencebook.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Network science book by Albert L. Barabasi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://users.dimi.uniud.it/~massimo.franceschet/ns/plugandplay/ggraph/ggraph.html#1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tidy network analysis and visualization by Massimo Franceshet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Scientists, The 5 Graph Algorithms that you should know by Rahul Agarwal(with networkx python code)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Everything you need to know about Graph Theory for Deep Learning by Flawnson Tong&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;How to get started with machine learning on graphs by David Mack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://medium.com/octavian-ai/machine-learning-on-graphs-course-pre-requisites-446d2ff3878b&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine learning on Graphs course: Pre-requisites by David Mack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/overview-of-deep-learning-on-graph-embeddings-4305c10ad4a4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph Embedding for Deep Learning by Flawnson Tong&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://towardsdatascience.com/graph-convolutional-networks-for-geometric-deep-learning-1faf17dee008&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph Convolutional Networks for Geometric Deep Learning by Flawnson Tong&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://flawnsontong.medium.com/what-is-geometric-deep-learning-b2adb662d91d&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;What is Geometric Deep Learning? by Flawnson Tong&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://paperswithcode.com/methods/area/graphs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Papers with code website&lt;/a&gt;&lt;/p&gt;
 &lt;!-- ![png](./index_1_0.png) --&gt;
 </description>
     </item>
