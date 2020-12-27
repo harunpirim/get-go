@@ -1,6 +1,4 @@
 ---
-active: false
-
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
   ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
@@ -21,7 +19,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
-projects: []
+projects: false
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ""
 publication_types:
