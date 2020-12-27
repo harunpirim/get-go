@@ -4,6 +4,7 @@ author: "HP"
 date: "12/27/2020"
 resource_files: 
 -include
+-index_files/figure-html
 output: html_document
 share: false
 ---
