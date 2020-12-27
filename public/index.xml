@@ -415,12 +415,12 @@ Three
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://harunpirim.netlify.app/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://harunpirim.netlify.app/post/r_stuff/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://harunpirim.netlify.app/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://harunpirim.netlify.app/post/r_stuff/</guid>
       <description>
-&lt;link href=&#34;https://harunpirim.netlify.app/post/2015-07-23-r-rmarkdown/index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
-&lt;script src=&#34;https://harunpirim.netlify.app/post/2015-07-23-r-rmarkdown/index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+&lt;link href=&#34;index_files/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;index_files/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -456,7 +456,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://harunpirim.netlify.app/post/2015-07-23-r-rmarkdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
