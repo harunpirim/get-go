@@ -1,12 +1,14 @@
 ---
 title: "R stuff"
 author: "HP"
-date: "12/27/2020"
-resource_files: 
--include
--index_files/figure-html
+date: '2020-12-28T21:13:14-05:00'
 output: html_document
 share: false
+categories: R
+tags:
+- R Markdown
+- networks
+- machine learning
 ---
 
 ```{r setup, include=FALSE}
