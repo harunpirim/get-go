@@ -21,7 +21,7 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 <!--slides: example-->
-summary: 
+summary: ...
 tags:
 - 
 title: Twitter network analysis to distinguish system thinkers
