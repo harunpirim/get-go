@@ -2,8 +2,8 @@
 abstract: 
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- 
+date: "2020-12-28T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -26,17 +26,18 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
 - Source Themes
 title: Twitter network analysis to distinguish system thinkers
-url_code: '#'
-url_dataset: '#'
+url_code: ''
+url_dataset: ''
 url_pdf: "/publication/conference-paper/twitter_ST.pdf"
-url_poster: '#'
+url_poster: ''
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
+share: false
 ---
 
-{{% alert note %}}
+<!--{{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
@@ -44,5 +45,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).-->
 
