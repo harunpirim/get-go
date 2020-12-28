@@ -1,6 +1,6 @@
 ---
 date: "2020-12-27T00:00:00Z"
-external_link: http://example.org
+external_link: ''
 image:
   caption: credit Unsplash
   focal_point: Smart
