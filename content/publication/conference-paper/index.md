@@ -30,8 +30,8 @@ url_code: ''
 url_dataset: ''
 url_pdf: "/publication/conference-paper/twitter_ST.pdf"
 url_poster: ''
-url_project: ""
-url_slides: ""
+url_project: ''
+url_slides: ''
 url_source: ''
 url_video: ''
 share: false
