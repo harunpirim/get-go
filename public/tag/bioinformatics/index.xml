@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Harun Pirim&#39;s page</title>
-    <link>https://harunpirim.netlify.app/project/</link>
-      <atom:link href="https://harunpirim.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Bioinformatics | Harun Pirim&#39;s page</title>
+    <link>https://harunpirim.netlify.app/tag/bioinformatics/</link>
+      <atom:link href="https://harunpirim.netlify.app/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://harunpirim.netlify.app/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://harunpirim.netlify.app/project/</link>
+      <title>Bioinformatics</title>
+      <link>https://harunpirim.netlify.app/tag/bioinformatics/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://harunpirim.netlify.app/project/external-project/</link>
       <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://harunpirim.netlify.app/project/external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://harunpirim.netlify.app/project/internal-project/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://harunpirim.netlify.app/project/internal-project/</guid>
       <description></description>
     </item>
     
