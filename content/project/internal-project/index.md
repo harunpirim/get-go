@@ -13,7 +13,7 @@ links:
 summary: An example of using the in-built project page.
 tags:
 - Network Analysis
-title: Bioinformatics
+title: Machine Learning
 url_code: ""
 url_pdf: "project/internal-project/twitter_ST.pdf"
 url_slides: ""
