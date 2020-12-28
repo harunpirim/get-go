@@ -7,7 +7,7 @@ date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: Yunus Pirim inspired by Lego'
   focal_point: ""
   preview_only: false
 links:
