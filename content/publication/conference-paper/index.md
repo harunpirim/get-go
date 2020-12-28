@@ -28,7 +28,7 @@ tags:
 title: Twitter network analysis to distinguish system thinkers
 url_code: '#'
 url_dataset: '#'
-url_pdf: "Twitter_ST.pdf"
+url_pdf: "/publication/conference-paper/twitter_ST.pdf"
 url_poster: '#'
 url_project: ""
 url_slides: ""
